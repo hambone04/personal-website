@@ -1,11 +1,20 @@
 h1{
-    background-color: black;
-    color: orangered
+    color: orangered;
+    text-align: center;
+    -webkit-text-stroke: 0.5px black;
 }
 body{
     background-color: darkslategray;
-    color: white
+    color: white;
 }
 p{
-    color: white
+    text-align: center;
+    color: white;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 10%;
 }
